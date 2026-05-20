@@ -222,7 +222,7 @@ Glide 播不了损坏的 GIF？这个库能播。大图吃内存？三级缓存 
         <dependency>
             <groupId>io.github.qs79662k</groupId>
             <artifactId>gif-zen</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </dependency>
 
   桌面端示例（输出 BufferedImage）
