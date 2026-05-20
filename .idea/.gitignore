@@ -1,10 +1,14 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Ignored default folder with query files
-/queries/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# Maven 构建产物，必须忽略
+target/
+*.class
+*.jar
+
+# IDEA 配置文件，忽略
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 系统临时文件
+.DS_Store
+Thumbs.db
